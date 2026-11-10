@@ -1,2 +1,2 @@
 if True:
-    print(True)
+    print(True, "c'est un code bidon")
